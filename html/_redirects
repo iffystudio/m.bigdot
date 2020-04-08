@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://m-bigdot.netlify.com/* https://m.bigdot.iffy.studio/:splat 301!
